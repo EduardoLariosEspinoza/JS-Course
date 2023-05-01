@@ -1,6 +1,6 @@
 // localStorage.setItem(llave, valor);
 localStorage.setItem('edad', 36); // LocalStorage solo guarda strings, convierte los datos a strings
-
+localStorage.setItem('edad', 21);
 // Funciona igual que localStorage pero cuando cierras la pestaña se borra
 sessionStorage.setItem('nombre', 'eduardo');
 
